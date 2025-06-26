@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lecture Notes Repository</title>
+    <link rel="stylesheet" href="homestyle.css?v=<?php echo time(); ?>">
+</head>
+<body>
+<div class="container">
+    <h1><a href="index.php" style="text-decoration: none; color: inherit;">Lecture Notes Repository</a></h1>
+    <nav style="margin-bottom: 20px;">
+        <a href="index.php">Home</a>   |
+        <a href="upload.php">Upload</a>
+    </nav>
