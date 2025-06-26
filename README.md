@@ -99,7 +99,7 @@ lecture_repo/
 
 ## 📸 Screenshot
 
-![homepage](image.png)
+![homepage](image-2.png))
 ![uploadpage](image-1.png)
 
 ---
