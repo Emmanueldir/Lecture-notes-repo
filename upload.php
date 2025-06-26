@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?>
+<?php include 'header2.php'; ?>
 <h2>Upload Lecture Material</h2>
 <form action="save_upload.php" method="POST" enctype="multipart/form-data">
     <input type="text" name="title" placeholder="Title" required><br>
