@@ -93,14 +93,10 @@ lecture_repo/
 ├── footer.php          # Shared footer
 ├── style.css           # Simple CSS styling
 └── uploads/            # Stores uploaded files
+        └──sub folder
+            └──sub dolder
+
 ```
-
----
-
-## 📸 Screenshot
-
-![homepage](image-2.png))
-![uploadpage](image-1.png)
 
 ---
 
@@ -122,5 +118,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Credits
 
-Built by Emmanuel — powered by open-source ❤️  
+Built by Emmanuel — ❤️  
 Inspired by GitHub repositories like `NoteRepo`, `KingsGambitLab`, and others.
