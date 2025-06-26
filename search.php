@@ -1,4 +1,4 @@
-<?php include 'header.php';
+<?php include 'header2.php';
 include 'db.php';
 
 $query = "%" . $_GET['query'] . "%";
