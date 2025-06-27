@@ -11,5 +11,5 @@
         <a href="upload.php">Upload</a>
     </nav>
     <div class="about">
-        <p>This is simple web-based repository built with PHP and MySQL that allows users to upload, search, and download lecture notes by year, department, course code, and semester.</p>
+        <p>This is simple web-based repository that allows users to upload, search, and download lecture notes by year, department, course code, and semester.</p>
     
