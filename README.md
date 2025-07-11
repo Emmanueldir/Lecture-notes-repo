@@ -118,5 +118,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Credits
 
-Built by Emmanuel — ❤️  
+Built by Emmanuel ❤️  
 Inspired by GitHub repositories like `NoteRepo`, `KingsGambitLab`, and others.
